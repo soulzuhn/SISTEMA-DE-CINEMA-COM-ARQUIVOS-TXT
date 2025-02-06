@@ -1,0 +1,2 @@
+----- Projeto básico baseado em funcionalidades que um sistema de cinema possui -----
+----- Arquivos TXT estão inclusos utilizando bibliotecas do Java como Buffered Writer e Buffered Reader ------
